@@ -1,7 +1,7 @@
 // chiedere numero di km
-const distance = parseInt (prompt ('Quanti km vuoi percorrere?'));
+const distance = parseInt( prompt('Quanti km vuoi percorrere?') );
 // chiedere età
-const userAge = parseInt (prompt ('Quanti anni hai?'));
+const userAge = parseInt( prompt('Quanti anni hai?') );
 
 // LOGICA
 // prezzo al km
